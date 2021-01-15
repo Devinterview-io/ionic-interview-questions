@@ -1,6 +1,7 @@
 # 🖲 Top 29 Ionic interview questions (answered) for JavaScript developers
 
 Ionic is an open source mobile UI toolkit for building high quality, cross-platform native and web app experiences. Move faster with a single code base, running everywhere with JavaScript and the Web. Build native mobile, desktop, and Progressive Web Apps with one codebase using React, Angular, or Vue and web standards.
+Check our list of 83 Ionic Framework interview questions and answers and get ready for your next software developer interview in 2021.
 
 </br>
 
